@@ -1,0 +1,10 @@
+[21.09.2024 19:17:17] code = CantOpen (14), message = System.Data.SQLite.SQLiteException (0x87AF03F3): unable to open database file
+   at System.Data.SQLite.SQLite3.Open(String strFilename, String vfsName, SQLiteConnectionFlags connectionFlags, SQLiteOpenFlagsEnum openFlags, Int32 maxPoolSize, Boolean usePool)
+   at System.Data.SQLite.SQLiteConnection.Open()
+   at The_Expenses.ExternalWorking.ExpensesDataBase.CreateTable() in C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\ExternalWorking\ExpensesDataBase.cs:line 19
+   at The_Expenses.ExternalWorking.ExpensesDataBase..ctor() in C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\ExternalWorking\ExpensesDataBase.cs:line 13
+   at PieChart.LoadData() in C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\InternalWork\PieChart.cs:line 22
+   at PieChart..ctor() in C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\InternalWork\PieChart.cs:line 17
+   at The_Expenses.MainWindow..ctor() in C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\MainWindow.xaml.cs:line 19
+[21.09.2024 19:17:18] System.NullReferenceException: Object reference not set to an instance of an object.
+   at The_Expenses.MainWindow.ShowPieChartButton_Click(Object sender, RoutedEventArgs e) in C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\MainWindow.xaml.cs:line 168

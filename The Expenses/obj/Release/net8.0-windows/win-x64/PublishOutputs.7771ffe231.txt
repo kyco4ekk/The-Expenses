@@ -1,0 +1,19 @@
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\The Expenses.exe
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\Image\close.png
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\purchase_history.db
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\The Expenses.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\The Expenses.deps.json
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\The Expenses.runtimeconfig.json
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\The Expenses.pdb
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\HarfBuzzSharp.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\LiveChartsCore.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\LiveChartsCore.SkiaSharpView.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\SkiaSharp.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\SkiaSharp.HarfBuzz.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\SkiaSharp.Views.WPF.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\System.Data.SQLite.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\libHarfBuzzSharp.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\libSkiaSharp.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Release\net8.0-windows\win-x64\app.publish\SQLite.Interop.dll

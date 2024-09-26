@@ -1,0 +1,35 @@
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\The Expenses.exe
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\The Expenses.deps.json
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\The Expenses.runtimeconfig.json
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\The Expenses.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\The Expenses.pdb
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\HarfBuzzSharp.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\LiveChartsCore.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\LiveChartsCore.SkiaSharpView.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\SkiaSharp.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\SkiaSharp.HarfBuzz.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\SkiaSharp.Views.WPF.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\System.Data.SQLite.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\libHarfBuzzSharp.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\libSkiaSharp.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\bin\Debug\net8.0-windows\win-x64\SQLite.Interop.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.csproj.AssemblyReference.cache
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\MainWindow.baml
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\PieChartWindow.baml
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\MainWindow.g.cs
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\PieChartWindow.g.cs
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\App.g.cs
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses_MarkupCompile.cache
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.g.resources
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.AssemblyInfoInputs.cache
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.AssemblyInfo.cs
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.csproj.CoreCompileInputs.cache
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expe.FC6EB763.Up2Date
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\refint\The Expenses.dll
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.pdb
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\The Expenses.genruntimeconfig.cache
+C:\Users\kyco4ekk\Desktop\C#\The Expenses\The Expenses\obj\Debug\net8.0-windows\win-x64\ref\The Expenses.dll

@@ -1,0 +1,53 @@
+﻿<Window x:Class="The_Expenses.ExpensesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="ExpensesWindow" Height="450" Width="420"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="Manual"
+        Left="150" Top="150"
+        AllowsTransparency="True" Background="Beige">
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Window.Resources>
+    <Grid>
+        <Button x:Name="closeButton" HorizontalAlignment="Left" Margin="388,0,0,0" 
+                VerticalAlignment="Top" Width="32" Height="32" Click="CloseButton_Click"
+                Background="Transparent" BorderBrush="Transparent">
+            <Image Source="pack://application:,,,/Image/close.png" Width="28" Height="28"/>
+        </Button>
+
+        <ListBox x:Name="expensesListBox" Margin="10,0,37,0" VerticalAlignment="Top">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Expander Header="{Binding Date}" FontSize="14">
+                        <ItemsControl ItemsSource="{Binding Purchases}" FontSize="14">
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal" Margin="10,5">
+                                        <CheckBox Width="30" VerticalAlignment="Center" FontSize="14"
+                                                  IsChecked="{Binding IsDeleteVisible, Mode=TwoWay}"/>
+                                        <!-- Категория -->
+                                        <TextBlock Text="{Binding CategoryName}" Width="120" VerticalAlignment="Center" FontSize="14"/>
+                                        <!-- Цена -->
+                                        <TextBlock Text="{Binding Price}" Width="70" VerticalAlignment="Center" FontSize="14"/>
+                                        <!-- Время -->
+                                        <TextBlock Text="{Binding Time}" Width="40" VerticalAlignment="Center" FontSize="14"/>
+                                        <!-- Кнопка удаления -->
+                                        <Button Content="Удалить" Width="70" Height="25" Margin="10,0,0,0" FontSize="14"
+                                                Visibility="{Binding IsDeleteVisible, Converter={StaticResource BooleanToVisibilityConverter}}"
+                                                Click="DeleteButton_Click"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </Expander>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+    
+</Window>
